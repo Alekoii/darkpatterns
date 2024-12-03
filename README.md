@@ -1,6 +1,6 @@
 # UX Dark Patterns
 
-This documents all the dark patterns companies use.
+This documents all the dark patterns companies use. Contributors Welcome. 
 
 ## Local Development
 
